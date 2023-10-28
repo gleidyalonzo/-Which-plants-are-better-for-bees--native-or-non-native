@@ -1,2 +1,8 @@
-#  Which plants are better for bees: native or non-native
- his project falls under the context of environmental conservation and biodiversity research. It involves using data analysis techniques to answer a specific ecological question related to pollinator bees and plant species
+The type of data analysis that this project falls under is a combination of several data analysis techniques and methods, including:
+1. Descriptive Data Analysis: Descriptive statistics will help you summarize and describe the key features of the data. This includes calculating means, medians, standard deviations, and generating summary statistics for both the bee and plant species data.
+2. Comparative Data Analysis: This project involves comparing two types of bee species (native and non-native) and their preferences for different plant species. You'll use comparative analysis to assess the differences and similarities between these groups.
+3. Statistical Analysis: To determine which plants are preferred by native vs non-native bee species, you'll likely use statistical tests. This might involve hypothesis testing (e.g., t-tests or ANOVA) or non-parametric tests (e.g., Wilcoxon rank-sum test) to identify significant differences in plant preferences.
+4. Visualization: You'll create visualizations to illustrate the distribution of bee and plant species across samples. This can include scatter plots, bar charts, heatmaps, or any other visual representation that effectively communicates the data's patterns and relationships.
+5. Recommendation and Decision Analysis: The final part of your analysis involves making recommendations to support native bees. This may involve a decision analysis approach where you weigh different factors (e.g., bee preferences, plant availability, ecosystem impact) to arrive at your recommendations.
+6. Spatial Analysis (Potentially): If geographical information is available, you might also perform spatial analysis to assess the geographical distribution of bee-friendly plant species and their impact on pollinators in different areas.
+
